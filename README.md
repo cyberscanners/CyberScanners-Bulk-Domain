@@ -24,13 +24,17 @@ $ Domain-txt
 * file name එකක් අහනවා. ඒ file එකට domain ලයිස්තුවක් තියෙන්න ඕන:
 
 • www.google.com
+
 • www.facebook.com
+
 • www.youtube.com
 
 * File එකෙන් එක එක domain name එකක් ගන්නවා.Domain name හරහා resolve කරලා IP address එක print කරනවා:
 
 • google.com -> 142.250.190.14
+
 • facebook.com -> 157.240.20.35
+
 • github.com -> 140.82.121.3
 
 
