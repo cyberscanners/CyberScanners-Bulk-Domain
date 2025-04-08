@@ -21,7 +21,7 @@ $ Domain-txt
 
 * domain ලයිස්තුවක් (example.com වගේ) අරගෙන ඒවාට අදාල IP address එක resolve කරන එක.
 
-* file name එකක් අහනවා. ඒ file එකට domain ලයිස්තුවක් තියෙන්න ඕන:
+* file name එකක් අහනවා. ඒ file එකට domain ලයිස්තුවක් තියෙන්න ඕන.
 
 • www.google.com
 
